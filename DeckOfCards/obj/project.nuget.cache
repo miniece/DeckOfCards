@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJyzM4fuAXJ27BMV/wJkqDi3h69LhOrk4c/mFGtSLGS8GwjVLR1lONFMA1+OvER8q2VfBYA1WC1k7w+bWFmmIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xmini\\Documents\\BootcampLabs\\DeckOfCards\\DeckOfCards\\DeckOfCards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xmini\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\xmini\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
+    "C:\\Users\\xmini\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512",
+    "C:\\Users\\xmini\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
